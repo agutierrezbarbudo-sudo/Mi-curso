@@ -1,0 +1,1673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260428021407THR31G</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260428021407YM0SHU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La Segunda Guerra Mundial (1939-1945).</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>El borde al mundo de la destrucción.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Álvaro Gutiérrez Barbudo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje sobre la Segunda Guerra Mundial para la materia de Geografía e Historia de 4º de ESO.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777329089549</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777329425525-h9yxwajyl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué sabes de la Segunda Guerra Mundial?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué sabes de la Segunda Guerra Mundial?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777329425525-h9yxwajyl</odePageId>
+      <odeBlockId>block-1777329491528-9f3nkdkn0</odeBlockId>
+      <blockName>Lo que ya conocemos</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777329425525-h9yxwajyl</odePageId>
+          <odeBlockId>block-1777329491528-9f3nkdkn0</odeBlockId>
+          <odeIdeviceId>idevice-1777329491526-gb3ogbghk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este conflicto es el más destructivo de la historia de la humanidad y ha dejado graves secuelas que llegan hasta hoy. Pero, ¿a qué se debe? ¿Y por qué se llegó a esta situación?</p>
+<p>Comenzaremos trabajando estas ideas con un <strong>debate </strong>para ver qué conocéis de antemano: ¡seguro que es más de lo que pensáis! Y no olvidéis que <strong>se tendrá en cuenta la participación</strong>, así que ¡a exponer vuestras ideas!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777329491526-gb3ogbghk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este conflicto es el más destructivo de la historia de la humanidad y ha dejado graves secuelas que llegan hasta hoy. Pero, ¿a qué se debe? ¿Y por qué se llegó a esta situación?</p>\n<p>Comenzaremos trabajando estas ideas con un <strong>debate </strong>para ver qué conocéis de antemano: ¡seguro que es más de lo que pensáis! Y no olvidéis que <strong>se tendrá en cuenta la participación</strong>, así que ¡a exponer vuestras ideas!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777329425525-h9yxwajyl</odePageId>
+      <odeBlockId>block-1777329979579-8ntv8nctn</odeBlockId>
+      <blockName>¡Demuestra lo que sabes!</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777329425525-h9yxwajyl</odePageId>
+          <odeBlockId>block-1777329979579-8ntv8nctn</odeBlockId>
+          <odeIdeviceId>idevice-1777329979578-53a1s4e2u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una vez que hayamos nos hayamos metido en faena con el debate, explicaremos lo básico para empezar con buen pie: causas, bandos, hechos principales y consecuencias de la guerra. Pero para ver que vas cogiendo las ideas más importantes, resolverás un <strong>cuestionario en la plataforma Moodle. </strong>No tendréis problema ya que trabajáis continuamente con Moodle, y además lo haremos con los portátiles en clase.</p>
+<p>Solo tendréis <strong>un intento</strong>, así que aseguraos bien antes de responder. Se os dará la nota automáticamente junto a un comentario de cada pregunta. ¡Vamos a ello!</p>
+<p>Enlace a Moodle Centros: <a href="https://www.juntadeandalucia.es/educacion/eaprendizaje/servicios-educativos-digitales-2/moodle-centros/" title="">https://www.juntadeandalucia.es/educacion/eaprendizaje/servicios-educativos-digitales-2/moodle-centros/</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777329979578-53a1s4e2u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez que hayamos nos hayamos metido en faena con el debate, explicaremos lo básico para empezar con buen pie: causas, bandos, hechos principales y consecuencias de la guerra. Pero para ver que vas cogiendo las ideas más importantes, resolverás un <strong>cuestionario en la plataforma Moodle. </strong>No tendréis problema ya que trabajáis continuamente con Moodle, y además lo haremos con los portátiles en clase.</p>\n<p>Solo tendréis <strong>un intento</strong>, así que aseguraos bien antes de responder. Se os dará la nota automáticamente junto a un comentario de cada pregunta. ¡Vamos a ello!</p>\n<p>Enlace a Moodle Centros: <a href=\"https://www.juntadeandalucia.es/educacion/eaprendizaje/servicios-educativos-digitales-2/moodle-centros/\" title=\"\">https://www.juntadeandalucia.es/educacion/eaprendizaje/servicios-educativos-digitales-2/moodle-centros/</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777330485031-nt21odw97</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Empezamos a desarrollar nuestro trabajo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empezamos a desarrollar nuestro trabajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777330485031-nt21odw97</odePageId>
+      <odeBlockId>block-1777330507243-4lxxjlcv4</odeBlockId>
+      <blockName>Ideas principales de la Segunda Guerra Mundial</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777330485031-nt21odw97</odePageId>
+          <odeBlockId>block-1777330507243-4lxxjlcv4</odeBlockId>
+          <odeIdeviceId>idevice-1777330507242-d523gbd5n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ya empiezas a conocer lo básico de la Segunda Guerra Mundial. Ahora es el momento de progresar en tus conocimientos y de que los organices de cara al producto final. Seguiremos explicando contenidos con apoyo de este vídeo, que te resultara útil en tu trabajo al incluir los datos y hechos más importantes de forma clara y concisa.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/AYQ8hT8cVTE?si=7j6jrTE4U3AXUjTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Academia Play. <a href="https://www.youtube.com/watch?v=AYQ8hT8cVTE" title="">La Segunda Guerra Mundial en 17 minutos</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777330507242-d523gbd5n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ya empiezas a conocer lo básico de la Segunda Guerra Mundial. Ahora es el momento de progresar en tus conocimientos y de que los organices de cara al producto final. Seguiremos explicando contenidos con apoyo de este vídeo, que te resultara útil en tu trabajo al incluir los datos y hechos más importantes de forma clara y concisa.</p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AYQ8hT8cVTE?si=7j6jrTE4U3AXUjTs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Academia Play. <a href=\"https://www.youtube.com/watch?v=AYQ8hT8cVTE\" title=\"\">La Segunda Guerra Mundial en 17 minutos</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777330485031-nt21odw97</odePageId>
+      <odeBlockId>block-1777332382058-ilo5cw566</odeBlockId>
+      <blockName>Creación de los grupos y elaboración de un mapa conceptual</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777330485031-nt21odw97</odePageId>
+          <odeBlockId>block-1777332382058-ilo5cw566</odeBlockId>
+          <odeIdeviceId>idevice-1777332382057-1t3lz339r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una vez que ya tenemos las ideas principales, es el momento de crear <strong>grupos de tres componentes</strong> para realizar las siguientes actividades y el producto final. Tened en cuenta que <strong>se valorará el trabajo en equipo</strong>, así que distribuid bien las tareas a realizar.</p>
+<p>Comenzaremos elaborando un mapa conceptual con la información más importante de la Segunda Guerra Mundial. Esto os permitirá tener las contenidos resumidos y organizados para más adelante. Para ello usaréis MindMeister, herramienta que os resultará fácil de utilizar y que os permitirá obtener grandes resultados.</p>
+<p>Enlace a MindMesiter: <a href="https://www.mindmeister.com/es" title="">https://www.mindmeister.com/es</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777332382057-1t3lz339r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez que ya tenemos las ideas principales, es el momento de crear <strong>grupos de tres componentes</strong> para realizar las siguientes actividades y el producto final. Tened en cuenta que <strong>se valorará el trabajo en equipo</strong>, así que distribuid bien las tareas a realizar.</p>\n<p>Comenzaremos elaborando un mapa conceptual con la información más importante de la Segunda Guerra Mundial. Esto os permitirá tener las contenidos resumidos y organizados para más adelante. Para ello usaréis MindMeister, herramienta que os resultará fácil de utilizar y que os permitirá obtener grandes resultados.</p>\n<p>Enlace a MindMesiter: <a href=\"https://www.mindmeister.com/es\" title=\"\">https://www.mindmeister.com/es</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777332872946-bjjjklod1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Profundizamos. Las víctimas de la guerra</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Profundizamos. Las víctimas de la guerra</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Profundizamos. Las víctimas de la guerra</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777332872946-bjjjklod1</odePageId>
+      <odeBlockId>block-1777332891201-zud7offoq</odeBlockId>
+      <blockName>Los horrores de la guerra. El Holocausto</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777332872946-bjjjklod1</odePageId>
+          <odeBlockId>block-1777332891201-zud7offoq</odeBlockId>
+          <odeIdeviceId>idevice-1777332891200-kzm5wlvlc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos ahora a adentrarnos en una de los episodios más oscuros de la historia de la humanidad. Y no es otro que el de la enorme cantidad de víctimas del conflicto, y especialmente en lo que se refiere al Holocausto, del que en este vídeo podréis obtener más información.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/6Zto6-WKTvs?si=ZEF5VlGh2PSTw3hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>PragerU Español. <a href="https://www.youtube.com/watch?v=6Zto6-WKTvs" title="">¿Qué fue el Holocausto? | 5 Minute Videos | PragerU Español</a></p>
+<p></p>
+<p>Pero también hay que tener en cuenta las cifras totales de muertos, que fueron devastadoras. En este vídeo los tenéis organizados por países.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/hBBI6N0OXBY?si=by_ashGAGLKKbPiV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Entre barras, gráficos y mapas. <a href="https://www.youtube.com/watch?v=hBBI6N0OXBY" title="">Número de muertes por país en la segunda guerra mundial</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777332891200-kzm5wlvlc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos ahora a adentrarnos en una de los episodios más oscuros de la historia de la humanidad. Y no es otro que el de la enorme cantidad de víctimas del conflicto, y especialmente en lo que se refiere al Holocausto, del que en este vídeo podréis obtener más información.</p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6Zto6-WKTvs?si=ZEF5VlGh2PSTw3hM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>PragerU Español. <a href=\"https://www.youtube.com/watch?v=6Zto6-WKTvs\" title=\"\">¿Qué fue el Holocausto? | 5 Minute Videos | PragerU Español</a></p>\n<p></p>\n<p>Pero también hay que tener en cuenta las cifras totales de muertos, que fueron devastadoras. En este vídeo los tenéis organizados por países.</p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hBBI6N0OXBY?si=by_ashGAGLKKbPiV\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>Entre barras, gráficos y mapas. <a href=\"https://www.youtube.com/watch?v=hBBI6N0OXBY\" title=\"\">Número de muertes por país en la segunda guerra mundial</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777332872946-bjjjklod1</odePageId>
+      <odeBlockId>block-1777333637963-x8lem2c7o</odeBlockId>
+      <blockName>Gráfico sobre las víctimas de la guerra y el Holocausto</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777332872946-bjjjklod1</odePageId>
+          <odeBlockId>block-1777333637963-x8lem2c7o</odeBlockId>
+          <odeIdeviceId>idevice-1777333637962-udkhuzs1j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una vez que tenemos la información, es hora de que vuestro grupo elabore <strong>un gráfico</strong> en el que recogeréis, por un lado el número de víctimas del Holocausto. Y por otro, la cantidad de fallecidos totales y los de los diez países con más muertos en la guerra.</p>
+<p>Para hacer vuestro gráfico, usaréis Piktochart, que os permitirá hacer que vuestro gráfico sea visual y que cualquier persona pueda verlo, interpretarlo y ser consciente de la magnitud de lo ocurrido en este conflicto.</p>
+<p>Enlace: <a href="https://piktochart.com/?nab=0" title="">https://piktochart.com/?nab=0</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777333637962-udkhuzs1j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez que tenemos la información, es hora de que vuestro grupo elabore <strong>un gráfico</strong> en el que recogeréis, por un lado el número de víctimas del Holocausto. Y por otro, la cantidad de fallecidos totales y los de los diez países con más muertos en la guerra.</p>\n<p>Para hacer vuestro gráfico, usaréis Piktochart, que os permitirá hacer que vuestro gráfico sea visual y que cualquier persona pueda verlo, interpretarlo y ser consciente de la magnitud de lo ocurrido en este conflicto.</p>\n<p>Enlace: <a href=\"https://piktochart.com/?nab=0\" title=\"\">https://piktochart.com/?nab=0</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777333887224-3c61ezusq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final. Resumen de la Segunda Guerra Mundial</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final. Resumen de la Segunda Guerra Mundial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final. Resumen de la Segunda Guerra Mundial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777333887224-3c61ezusq</odePageId>
+      <odeBlockId>block-1777334062598-v4mi1biir</odeBlockId>
+      <blockName>Infografía con el resumen de la guerra</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777333887224-3c61ezusq</odePageId>
+          <odeBlockId>block-1777334062598-v4mi1biir</odeBlockId>
+          <odeIdeviceId>idevice-1777334062597-pdum8v7tf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es el momento de que uséis lo trabajado y aprendido para vuestro producto final. Vuestro grupo debe crear una <strong>infografía</strong> usando <a href="https://www.canva.com/" title="">Canva</a> resumiendo los principales aspectos de la Segunda Guerra Mundial. Recordad que no pueden faltar causas, bandos y países, hechos y batallas principales, y consecuencias incluyendo las conferencias de paz y las víctimas, tanto en general como las del Holocausto.</p>
+<p>Además, debéis tener en cuenta que esta presentación debe ser lo más visual posible, incluyendo imágenes, gráficos, etc. y haciendo un uso racional del texto. Tendréis dos clases para hacer esta infografía, y una vez la tengáis tendréis que <strong>exponerla</strong> ante el resto de la clase. ¡Ánimo y a obtener el mejor resultado!</p>
+<p><img src="{{context_path}}/content/resources/pexels-nietjuhart-13553851.jpg" width="1536" height="1024" alt="" /></p>
+<p>Fuente: <a href="https://www.pexels.com/es-es/" title="">https://www.pexels.com/es-es/</a> Dominio público.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777334062597-pdum8v7tf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es el momento de que uséis lo trabajado y aprendido para vuestro producto final. Vuestro grupo debe crear una <strong>infografía</strong> usando <a href=\"https://www.canva.com/\" title=\"\">Canva</a> resumiendo los principales aspectos de la Segunda Guerra Mundial. Recordad que no pueden faltar causas, bandos y países, hechos y batallas principales, y consecuencias incluyendo las conferencias de paz y las víctimas, tanto en general como las del Holocausto.</p>\n<p>Además, debéis tener en cuenta que esta presentación debe ser lo más visual posible, incluyendo imágenes, gráficos, etc. y haciendo un uso racional del texto. Tendréis dos clases para hacer esta infografía, y una vez la tengáis tendréis que <strong>exponerla</strong> ante el resto de la clase. ¡Ánimo y a obtener el mejor resultado!</p>\n<p><img src=\"{{context_path}}/content/resources/pexels-nietjuhart-13553851.jpg\" width=\"1536\" height=\"1024\" alt=\"\" /></p>\n<p>Fuente: <a href=\"https://www.pexels.com/es-es/\" title=\"\">https://www.pexels.com/es-es/</a> Dominio público.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohrume2-88t7rkofh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohrume2-88t7rkofh</odePageId>
+      <odeBlockId>block-1777320549604-uirkay3x1</odeBlockId>
+      <blockName>A continuación os presento la guía didáctica donde se relacionan las tareas propuestas con los criterios de evaluación.</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrume2-88t7rkofh</odePageId>
+          <odeBlockId>block-1777320549604-uirkay3x1</odeBlockId>
+          <odeIdeviceId>idevice-1777320549602-x4b68c5n6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="3000" height="1500" src="{{context_path}}/content/resources/Relacionamos tareas con criterios de evaluación.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777320549602-x4b68c5n6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"3000\" height=\"1500\" src=\"{{context_path}}/content/resources/Relacionamos tareas con criterios de evaluación.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohrumdp-ftgk5e30b</odePageId>
+  <odeParentPageId>page-mohrume2-88t7rkofh</odeParentPageId>
+  <pageName>Presentación y descripción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohrumdp-ftgk5e30b</odePageId>
+      <odeBlockId>block-1776896843168-00mtcgono</odeBlockId>
+      <blockName>Elementos principales.</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdp-ftgk5e30b</odePageId>
+          <odeBlockId>block-1776896843168-00mtcgono</odeBlockId>
+          <odeIdeviceId>idevice-1776896843167-vbrkaybmw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título: La Segunda Guerra Mundial (1939-1945). El borde al mundo de la destrucción.</p>
+<p>Materia: Geografía e Historia.</p>
+<p>Nivel: 4º ESO.</p>
+<p>Idioma: castellano.</p>
+<p>Temporalización: 5 sesiones.</p>
+<p>Centro de interés: La frase “El borde al mundo de la destrucción”  deja claro que este conflicto culminó los procesos estudiados previamente de la peor manera posible, y también que fue más allá de un conflicto militar, viviéndose situaciones que asolaron al planeta y cuyas repercusiones llegan hasta nuestros días.</p>
+<p>Descripción general: En esta situación de aprendizaje los alumnos trabajarán en grupos usando diferentes recursos. Para ello utilizarán los ordenadores portátiles que pone a disposición el centro. El producto final será una infografía que recoja de forma visual y resumida los aspectos principales de la Segunda Guerra Mundial, que deberán exponer ante el resto de la clase. El planteamiento es el siguiente:</p>
+<p>Primera sesión. Explicación de contenidos y cuestionario online sobre la Segunda Guerra Mundial.</p>
+<p>Segunda sesión. Elaboración de un mapa conceptual con herramientas digitales que sirva como base para la infografía.</p>
+<p>Tercera sesión. Creación de gráficos sobre el número de víctimas por países y sobre el Holocausto, acompañado de un comentario.</p>
+<p>Cuarta sesión: Elaboración de la infografía.</p>
+<p>Quinta sesión: Presentación oral de la infografía en clase.</p>
+<p>Justificación: La Segunda Guerra Mundial es un conflicto que marcó al mundo de forma nunca antes vista, con secuelas que llegan hasta hoy. Los alumnos conocerán sus causas, hechos y consecuencias, haciendo especial hincapié en la defensa de los valores democráticos y los derechos humanos. En base a nuestra rutina de pensamiento, el grupo puede sacar un gran rendimiento de los recursos digitales para la creación de las diferentes actividades y el producto que se han propuesto. Servirá también para afianzar el trabajo en grupo y la atención a la diversidad. Además, un tema como la Segunda Guerra Mundial dispone de gran cantidad de materiales audiovisuales y didácticos que pueden servir como apoyo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776896843167-vbrkaybmw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título: La Segunda Guerra Mundial (1939-1945). El borde al mundo de la destrucción.</p>\n<p>Materia: Geografía e Historia.</p>\n<p>Nivel: 4º ESO.</p>\n<p>Idioma: castellano.</p>\n<p>Temporalización: 5 sesiones.</p>\n<p>Centro de interés: La frase “El borde al mundo de la destrucción”  deja claro que este conflicto culminó los procesos estudiados previamente de la peor manera posible, y también que fue más allá de un conflicto militar, viviéndose situaciones que asolaron al planeta y cuyas repercusiones llegan hasta nuestros días.</p>\n<p>Descripción general: En esta situación de aprendizaje los alumnos trabajarán en grupos usando diferentes recursos. Para ello utilizarán los ordenadores portátiles que pone a disposición el centro. El producto final será una infografía que recoja de forma visual y resumida los aspectos principales de la Segunda Guerra Mundial, que deberán exponer ante el resto de la clase. El planteamiento es el siguiente:</p>\n<p>Primera sesión. Explicación de contenidos y cuestionario online sobre la Segunda Guerra Mundial.</p>\n<p>Segunda sesión. Elaboración de un mapa conceptual con herramientas digitales que sirva como base para la infografía.</p>\n<p>Tercera sesión. Creación de gráficos sobre el número de víctimas por países y sobre el Holocausto, acompañado de un comentario.</p>\n<p>Cuarta sesión: Elaboración de la infografía.</p>\n<p>Quinta sesión: Presentación oral de la infografía en clase.</p>\n<p>Justificación: La Segunda Guerra Mundial es un conflicto que marcó al mundo de forma nunca antes vista, con secuelas que llegan hasta hoy. Los alumnos conocerán sus causas, hechos y consecuencias, haciendo especial hincapié en la defensa de los valores democráticos y los derechos humanos. En base a nuestra rutina de pensamiento, el grupo puede sacar un gran rendimiento de los recursos digitales para la creación de las diferentes actividades y el producto que se han propuesto. Servirá también para afianzar el trabajo en grupo y la atención a la diversidad. Además, un tema como la Segunda Guerra Mundial dispone de gran cantidad de materiales audiovisuales y didácticos que pueden servir como apoyo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohrumdv-jcynj1l9z</odePageId>
+  <odeParentPageId>page-mohrume2-88t7rkofh</odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohrumdv-jcynj1l9z</odePageId>
+      <odeBlockId>block-1777322871965-z8rsbdb50</odeBlockId>
+      <blockName>Producto final y herramienta a emplear.</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdv-jcynj1l9z</odePageId>
+          <odeBlockId>block-1777322871965-z8rsbdb50</odeBlockId>
+          <odeIdeviceId>idevice-1777322871961-stbz1mln9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En mi caso he planteado como producto final una infografía sobre la Segunda Guerra Mundial para la materia de Geografía e Historia de 4º de ESO. Para ello he seleccionado como herramienta Canva porque considero que es sencilla de usar y adecuada para los alumnos de este nivel.</p>
+<p>Además, podemos usarla en el aula con los portátiles de los que dispone el centro. Considero que Canva tiene las siguientes características que la hacen útil:</p>
+<p>- Permite crear infografías y presentaciones de forma sencilla y eficaz. Con esto los alumnos trabajan su competencia digital de forma efectiva.</p>
+<p>- Es visualmente atractiva y resulta fácil encontrar y usar elementos visuales, lo que aumenta su atractivo.</p>
+<p>- Es gratuita y accesible.</p>
+<p>- Sirve también para crear mapas mentales y resúmenes, lo que resulta de utilidad como preparación antes del producto final.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777322871961-stbz1mln9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En mi caso he planteado como producto final una infografía sobre la Segunda Guerra Mundial para la materia de Geografía e Historia de 4º de ESO. Para ello he seleccionado como herramienta Canva porque considero que es sencilla de usar y adecuada para los alumnos de este nivel.</p>\n<p>Además, podemos usarla en el aula con los portátiles de los que dispone el centro. Considero que Canva tiene las siguientes características que la hacen útil:</p>\n<p>- Permite crear infografías y presentaciones de forma sencilla y eficaz. Con esto los alumnos trabajan su competencia digital de forma efectiva.</p>\n<p>- Es visualmente atractiva y resulta fácil encontrar y usar elementos visuales, lo que aumenta su atractivo.</p>\n<p>- Es gratuita y accesible.</p>\n<p>- Sirve también para crear mapas mentales y resúmenes, lo que resulta de utilidad como preparación antes del producto final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mohrumdv-jcynj1l9z</odePageId>
+      <odeBlockId>block-1777322918827-9tq5gz5lr</odeBlockId>
+      <blockName>Enlace a Canva</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdv-jcynj1l9z</odePageId>
+          <odeBlockId>block-1777322918827-9tq5gz5lr</odeBlockId>
+          <odeIdeviceId>idevice-1777322918825-bcyttmftj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.canva.com/" title="">https://www.canva.com/</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777322918825-bcyttmftj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.canva.com/\" title=\"\">https://www.canva.com/</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohrumdw-sgn3ul12w</odePageId>
+  <odeParentPageId>page-mohrume2-88t7rkofh</odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohrumdw-sgn3ul12w</odePageId>
+      <odeBlockId>block-1777322977882-gp0v52yih</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdw-sgn3ul12w</odePageId>
+          <odeBlockId>block-1777322977882-gp0v52yih</odeBlockId>
+          <odeIdeviceId>idevice-1777322977880-58boggcam</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación os dejo 2 presentaciones en la que se ha intentado transmitir mi curación de contenidos. La primera es un Padlet en la que se recopilan las herramientas, los tutoriales, vídeos y recursos que el alumnado necesitará para realizar el proyecto. <br />La segunda es un Symbaloo donde se incluyen todas las herramientas, apps, tutoriales, aplicaciones que yo utilizo en mi día a día en la gestión de mi aula. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777322977880-58boggcam","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación os dejo 2 presentaciones en la que se ha intentado transmitir mi curación de contenidos. La primera es un Padlet en la que se recopilan las herramientas, los tutoriales, vídeos y recursos que el alumnado necesitará para realizar el proyecto. <br />La segunda es un Symbaloo donde se incluyen todas las herramientas, apps, tutoriales, aplicaciones que yo utilizo en mi día a día en la gestión de mi aula. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mohrumdw-sgn3ul12w</odePageId>
+      <odeBlockId>block-1777323040146-6841pgkpg</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdw-sgn3ul12w</odePageId>
+          <odeBlockId>block-1777323040146-6841pgkpg</odeBlockId>
+          <odeIdeviceId>idevice-1777323040144-sqydr6eyw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/ly2wm4ug67bvlvfz" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777323040144-sqydr6eyw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/ly2wm4ug67bvlvfz\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mohrumdw-sgn3ul12w</odePageId>
+      <odeBlockId>block-1777323097515-ltq3vmfdj</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdw-sgn3ul12w</odePageId>
+          <odeBlockId>block-1777323097515-ltq3vmfdj</odeBlockId>
+          <odeIdeviceId>idevice-1777323097513-kjjn87adx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Enlace: <a href="https://www.symbaloo.com/shared/AAAAAbCQ9fMAA41-5ENO-g==" title="">https://www.symbaloo.com/shared/AAAAAbCQ9fMAA41-5ENO-g==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777323097513-kjjn87adx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Enlace: <a href=\"https://www.symbaloo.com/shared/AAAAAbCQ9fMAA41-5ENO-g==\" title=\"\">https://www.symbaloo.com/shared/AAAAAbCQ9fMAA41-5ENO-g==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mohrumdw-sgn3ul12w</odePageId>
+      <odeBlockId>block-1777323159907-4xeq35o1e</odeBlockId>
+      <blockName>Enlaces a Padlet y Symbaloo</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdw-sgn3ul12w</odePageId>
+          <odeBlockId>block-1777323159907-4xeq35o1e</odeBlockId>
+          <odeIdeviceId>idevice-1777323159905-ce9dvdjyr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Padlet: <a href="https://padlet.com/" title="">https://padlet.com/</a></p>
+<p>Symbaloo: <a href="https://www.symbaloo.com/" title="">https://www.symbaloo.com/</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777323159905-ce9dvdjyr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Padlet: <a href=\"https://padlet.com/\" title=\"\">https://padlet.com/</a></p>\n<p>Symbaloo: <a href=\"https://www.symbaloo.com/\" title=\"\">https://www.symbaloo.com/</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohrumdz-khhrvmrr2</odePageId>
+  <odeParentPageId>page-mohrume2-88t7rkofh</odeParentPageId>
+  <pageName>Mapa mental y línea temporal</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mapa mental y línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mapa mental y línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Mapa mental y línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohrumdz-khhrvmrr2</odePageId>
+      <odeBlockId>block-1777323331938-9pkpwasay</odeBlockId>
+      <blockName>Introducción.</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdz-khhrvmrr2</odePageId>
+          <odeBlockId>block-1777323331938-9pkpwasay</odeBlockId>
+          <odeIdeviceId>idevice-1777323331935-3vrz423lv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este es mi mapa mental, hecho con Prezi, donde incluyo detalles para el alumnado tales como las tareas a realizar, los agrupamientos y la sesiones así como las herramientas que se utilizan en cada una de ellas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777323331935-3vrz423lv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este es mi mapa mental, hecho con Prezi, donde incluyo detalles para el alumnado tales como las tareas a realizar, los agrupamientos y la sesiones así como las herramientas que se utilizan en cada una de ellas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mohrumdz-khhrvmrr2</odePageId>
+      <odeBlockId>block-1777323571769-87t0pw5o7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdz-khhrvmrr2</odePageId>
+          <odeBlockId>block-1777323571769-87t0pw5o7</odeBlockId>
+          <odeIdeviceId>idevice-1777323571768-cyt3vw185</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="315" src="https://prezi.com/p/embed/0gycUMZKUAkma4MXwaJD/" id="iframe_container" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" allow="autoplay; fullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777323571768-cyt3vw185","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"315\" src=\"https://prezi.com/p/embed/0gycUMZKUAkma4MXwaJD/\" id=\"iframe_container\" frameborder=\"0\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; fullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mohrumdz-khhrvmrr2</odePageId>
+      <odeBlockId>block-1777323623633-6lbm6vanm</odeBlockId>
+      <blockName>Enlace a Prezi</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumdz-khhrvmrr2</odePageId>
+          <odeBlockId>block-1777323623633-6lbm6vanm</odeBlockId>
+          <odeIdeviceId>idevice-1777323623632-suqpoe6dd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Enlace: <a href="https://prezi.com/" title="">https://prezi.com/</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777323623632-suqpoe6dd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Enlace: <a href=\"https://prezi.com/\" title=\"\">https://prezi.com/</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohrume0-bijsohhgh</odePageId>
+  <odeParentPageId>page-mohrume2-88t7rkofh</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohrume0-bijsohhgh</odePageId>
+      <odeBlockId>block-1777323797492-ye2h45uyc</odeBlockId>
+      <blockName>Introducción.</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrume0-bijsohhgh</odePageId>
+          <odeBlockId>block-1777323797492-ye2h45uyc</odeBlockId>
+          <odeIdeviceId>idevice-1777323797488-l9h5qyuql</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí dejo los instrumentos de evaluación que he establecido para evaluar las tareas y el producto final de esta Situación de Aprendizaje, convenientemente desarrollados y explicados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777323797488-l9h5qyuql","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí dejo los instrumentos de evaluación que he establecido para evaluar las tareas y el producto final de esta Situación de Aprendizaje, convenientemente desarrollados y explicados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mohrume0-bijsohhgh</odePageId>
+      <odeBlockId>block-1777324028013-yfoaiaqqt</odeBlockId>
+      <blockName>Instrumentos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrume0-bijsohhgh</odePageId>
+          <odeBlockId>block-1777324028013-yfoaiaqqt</odeBlockId>
+          <odeIdeviceId>idevice-1777324028012-f66zapo50</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="3000" height="1500" src="{{context_path}}/content/resources/Tarea 8.1.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777324028012-f66zapo50","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"3000\" height=\"1500\" src=\"{{context_path}}/content/resources/Tarea 8.1.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohrumds-8j2f2e9my</odePageId>
+  <odeParentPageId>page-mohrume2-88t7rkofh</odeParentPageId>
+  <pageName>Protección de datos y garantía de derechos digitales</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantía de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantía de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohrumds-8j2f2e9my</odePageId>
+      <odeBlockId>block-1776898013951-l11fk0svc</odeBlockId>
+      <blockName>Una breve guía.</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrumds-8j2f2e9my</odePageId>
+          <odeBlockId>block-1776898013951-l11fk0svc</odeBlockId>
+          <odeIdeviceId>idevice-1776898013949-q5ix5u3af</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHHMU5RWYo/XgVeMP8hO6B2e24pgsKQLw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHHMU5RWYo/XgVeMP8hO6B2e24pgsKQLw/view?utm_content=DAHHMU5RWYo&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Guía de protección de datos y garantía de derechos digitales</a> de Álvaro Gutiérrez Barbudo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776898013949-q5ix5u3af","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHHMU5RWYo/XgVeMP8hO6B2e24pgsKQLw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHHMU5RWYo/XgVeMP8hO6B2e24pgsKQLw/view?utm_content=DAHHMU5RWYo&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Guía de protección de datos y garantía de derechos digitales</a> de Álvaro Gutiérrez Barbudo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohrume3-70f2tr6nk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohrume3-70f2tr6nk</odePageId>
+      <odeBlockId>block-1777322530526-ozvpt8epx</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohrume3-70f2tr6nk</odePageId>
+          <odeBlockId>block-1777322530526-ozvpt8epx</odeBlockId>
+          <odeIdeviceId>idevice-1777322530525-cm6gf1r26</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">La Segunda Guerra Mundial (1939-1945).</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje sobre la Segunda Guerra Mundial para la materia de Geografía e Historia de 4º de ESO.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Álvaro Gutiérrez Barbudo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
